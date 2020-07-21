@@ -1,0 +1,13 @@
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\bin\Debug\netcoreapp3.1\ConsolePlayground.exe
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\bin\Debug\netcoreapp3.1\ConsolePlayground.deps.json
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\bin\Debug\netcoreapp3.1\ConsolePlayground.runtimeconfig.json
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\bin\Debug\netcoreapp3.1\ConsolePlayground.runtimeconfig.dev.json
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\bin\Debug\netcoreapp3.1\ConsolePlayground.dll
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\bin\Debug\netcoreapp3.1\ConsolePlayground.pdb
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\obj\Debug\netcoreapp3.1\ConsolePlayground.csprojAssemblyReference.cache
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\obj\Debug\netcoreapp3.1\ConsolePlayground.AssemblyInfoInputs.cache
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\obj\Debug\netcoreapp3.1\ConsolePlayground.AssemblyInfo.cs
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\obj\Debug\netcoreapp3.1\ConsolePlayground.csproj.CoreCompileInputs.cache
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\obj\Debug\netcoreapp3.1\ConsolePlayground.dll
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\obj\Debug\netcoreapp3.1\ConsolePlayground.pdb
+C:\Users\brbry_000\source\repos\ConsolePlayground\ConsolePlayground\obj\Debug\netcoreapp3.1\ConsolePlayground.genruntimeconfig.cache
